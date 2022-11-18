@@ -1,4 +1,4 @@
-const countAmmo = require('./ex2_boucles');
+const countAmmo = require('./ex2_countAmmo');
 
 test("Count ammo", () => {
     expect(countAmmo([10, 2, 5])).toBe(17);
