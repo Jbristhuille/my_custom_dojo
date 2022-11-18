@@ -1,4 +1,7 @@
 /*
+Un soldat se retrouve bloqué sur le champs de bataille, il doit vérifier dans ces differents sacs
+le nombre de munitions restant à sa disposition.
+
 Créer une fonction 'countAmmo' qui doit compter le nombre de munitions.
 La fonction prend un paramètre 'bags' qui est un tableau contenant le nombre de munitions disponnible dans different sacs.
 La fonction doit parcourir les sacs ('bags') et retourner le total des munitions.
