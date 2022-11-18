@@ -1,0 +1,13 @@
+{
+  "name": "ex1_conditions",
+  "version": "1.0.0",
+  "description": "Test is player is alive",
+  "main": "ex1_conditions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jbristhuille",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
