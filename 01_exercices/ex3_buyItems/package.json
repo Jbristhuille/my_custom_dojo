@@ -1,0 +1,12 @@
+{
+  "name": "buy_items",
+  "version": "1.0.0",
+  "main": "ex2_buyItems.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jbristhuille",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
