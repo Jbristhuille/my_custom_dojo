@@ -1,4 +1,4 @@
-const isAlive = require('./ex1_conditions');
+const isAlive = require('./ex1_isAlive');
 
 test('Player is dead', () => {
     expect(isAlive(0)).toBe("Player is dead !");
