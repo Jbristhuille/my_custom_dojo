@@ -1,0 +1,13 @@
+{
+  "name": "ex2_boucles",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "ex2_boucles.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jbristhuille",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
