@@ -1,0 +1,13 @@
+{
+  "name": "ex01_pickandban",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "ex1_pickAndBan.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jbristhuille",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
